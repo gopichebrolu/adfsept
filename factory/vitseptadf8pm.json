@@ -1,0 +1,15 @@
+{
+	"name": "vitseptadf8pm",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "574803be-f72b-4ab2-a544-cba1eec54cf5",
+		"tenantId": "be4abb45-03e8-4a7d-9663-bacbcf3f769e"
+	}
+}
